@@ -35,4 +35,22 @@ d000 03 0f 04 05` (hexadecimal example for "code")
 6. exit the monitor with x
 7. take screenshots with alt+c (save media file)
 8. snap the alphabet (and extra characters/numbers) in your favorite picture editing program
-9. send it to us
+9. ~~send it to us~~
+10. ???
+11. Profit.
+
+## Fork roadmap
+
+* Clean up markup
+* Clean up CSS
+* Clean up JS
+* Some beautification
+* Fix color remapping on non-IE browsers
+* Better mobile UX
+* Actual changelog
+
+## Fork changes
+
+* Some quick cleanup
+* Netlify badge
+* License info added
